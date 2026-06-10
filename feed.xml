@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[마포 화곡 셔츠룸]]></title>
-  <link>https://sf-t3-1779642675702-350.pages.dev</link>
-  <description><![CDATA[마포 네트워크 보안 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Thu, 28 May 2026 13:05:05 GMT</pubDate>
-  <lastBuildDate>Thu, 28 May 2026 13:05:05 GMT</lastBuildDate>
-  <atom:link href="https://sf-t3-1779642675702-350.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[네트워크 보안]]></title>
+  <link>https://sf-t3-1779642675702-350.vercel.app</link>
+  <description><![CDATA[네트워크 보안 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 19:14:11 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 19:14:11 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-350.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[마포 화곡 셔츠룸 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://sf-t3-1779642675702-350.pages.dev/</link>
-      <guid isPermaLink="true">https://sf-t3-1779642675702-350.pages.dev/</guid>
-      <description><![CDATA[마포 네트워크 보안 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Thu, 28 May 2026 13:05:05 GMT</pubDate>
+      <title><![CDATA[화곡 셔츠룸 경험자에게 물어본 현실적인 판단 기준]]></title>
+      <link>https://sf-t3-1779642675702-350.vercel.app/posts/interview-001-1s8p42v.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-350.vercel.app/posts/interview-001-1s8p42v.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목: "월 매출 3000 찍고도 폐업한 진짜 원가 구조" #### [INTRO]아, 진짜... 지난 겨울, 서버실 온도가 42도까지 올라갔을 때, 화곡 셔츠룸의 원가는 얼마나 흩어졌던지... #### [QUESTION]월 매출이 3000만원에 불]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
